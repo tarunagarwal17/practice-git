@@ -1,3 +1,4 @@
+lorem_feat2
 lorem_feat1
 19 Git Tips for Everyday use http://www.alexkras.com/19-git-tips-for-everyday-use
 Git Hot Tips by Wes Bos https://wesbos.com/git-hot-tips/
