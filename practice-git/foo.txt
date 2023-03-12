@@ -16,6 +16,11 @@ edhb
 wegv
 bc
 lol
+adnmk
+adf
+sdvgas
+eh
+gg
 Git Hot Tips by Wes Bos https://wesbos.com/git-hot-tips/
 Git Reference https://help.github.com/categories/github-pages-basics/
 Pro Git Online Book http://git-scm.com/book
